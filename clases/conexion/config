@@ -1,9 +1,9 @@
 {
     "conexion":{
-        "server" : "localhost",
-        "user" : "root",
-        "password" : "P@topato123",
-        "database" : "harrys",
+        "server" : "us-cdbr-east-05.cleardb.net",
+        "user" : "bb443f4229863b",
+        "password" : "9f6e9ee2",
+        "database" : "heroku_6b016f445585e29",
         "port": "3306"
     }
 }
